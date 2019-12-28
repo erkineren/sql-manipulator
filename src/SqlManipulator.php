@@ -7,6 +7,11 @@ namespace SqlManipulator;
 use PHPSQLParser\PHPSQLCreator;
 use PHPSQLParser\PHPSQLParser;
 
+/**
+ * Class SqlManipulator
+ * @package SqlManipulator
+ * @author Erkin Eren
+ */
 class SqlManipulator
 {
     /**
